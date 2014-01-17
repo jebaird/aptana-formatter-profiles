@@ -1,4 +1,4 @@
-# jquery-style-guide-javascript-aptana
+# jquery-style-guide
 
 Aptana JavaScript Code Formatter profile based on [jQuery JavaScript Style
 Guide](http://docs.jquery.com/JQuery_Core_Style_Guidelines).
