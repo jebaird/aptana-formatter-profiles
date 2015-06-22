@@ -228,6 +228,7 @@
 <setting id="js.formatter.brace.position.function.declaration" value="same.line"/>
 <setting id="php.formatter.spaces.after.relational" value="1"/>
 <setting id="js.formatter.spaces.after.key.value.operator" value="1"/>
+<setting id="js.formatter.newline.between.var.declarations" value="true"/>
 <setting id="ruby.formatter.wrap.comments" value="true"/>
 <setting id="css.formatter.indent.blocks" value="same.line"/>
 <setting id="php.formatter.spaces.before.dot" value="1"/>
